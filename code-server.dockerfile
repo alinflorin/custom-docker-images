@@ -5,4 +5,4 @@ RUN sudo bash /tmp/nodesource_setup.sh
 
 RUN sudo apt-get update
 
-RUN sudo apt-get install -y nodejs npm
+RUN sudo apt-get install -y nodejs
